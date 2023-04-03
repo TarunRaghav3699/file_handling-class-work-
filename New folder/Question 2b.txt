@@ -1,0 +1,1 @@
+'is','am','are',"we","our","us","they","their","there","them","you","your","has","have","had","i","my","me"
